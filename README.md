@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="economics.jpg" >
+</p>
+
+
 # Data-Economics
 
-In this repository I'm going to create a serie of economic analysis using the API from the Brazilian Central Bank (BACEN)
+This is a repository for a serie of economic analysis using the API from the Brazilian Central Bank (BACEN)
 
