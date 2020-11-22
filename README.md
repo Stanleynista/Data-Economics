@@ -1,3 +1,4 @@
 # Data-Economics
 
-Repositório onde irei arquivos notebooks de análises econômicas obtidas atráves de dados do Banco Central (BACEN)
+In this repository I'm going to create a serie of economic analysis using the API from the Brazilian Central Bank (BACEN)
+
