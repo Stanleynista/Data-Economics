@@ -5,5 +5,5 @@
 
 # Data-Economics
 
-This is a repository for a serie of economic analysis using the API from the Brazilian Central Bank (BACEN)
+This is a repo for economic analysis using the API from BACEN and another sources of data.
 
