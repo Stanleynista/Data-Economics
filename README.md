@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="economics.jpg" >
+  <img src="Economics.jpg" >
 </p>
 
 
