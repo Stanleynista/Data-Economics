@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bacen.jpg" >
+  <img src="Thinkers.jpg" >
 </p>
 
 
