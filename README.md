@@ -5,5 +5,5 @@
 
 # Data-Economics
 
-This is a repo for economic analysis using the API from BACEN and another sources of data.
+This is a repo for economic analysis using the API from BACEN and others sources of data.
 
